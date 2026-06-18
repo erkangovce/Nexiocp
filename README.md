@@ -2,7 +2,7 @@
 
 Modern Linux Hosting Control Panel for Ubuntu servers with Turkish language support.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Untitled-1.png)
 
 ## Features
 
