@@ -1,6 +1,8 @@
 # NexioCP
 
-Modern Linux Hosting Control Panel.
+Modern Linux Hosting Control Panel for Ubuntu servers with Turkish language support.
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Features
 
@@ -14,16 +16,52 @@ Modern Linux Hosting Control Panel.
 - System Monitoring
 - License Management
 
+---
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Untitled-1.png)
+
+
+![Domains](screenshots/Untitled-2.png)
+
+
+![Email](screenshots/Untitled-3.png)
+
+
+![DNS](screenshots/Untitled-4.png)
+
+
+![Settings](screenshots/Untitled-5.png)
+
+![Settings](screenshots/Untitled-6.png)
+![Settings](screenshots/Untitled-7.png)
+![Settings](screenshots/Untitled-8.png)
+
+
+---
+
 ## Installation
 
+```bash
 wget https://cdn.nexiocp.com/install.sh
 chmod +x install.sh
 sudo bash install.sh
+```
+
+---
 
 ## Documentation
 
-See docs directory.
+- [Installation Guide](docs/NexioCP_Kurulum_ve_Kullanim_Kilavuzu_v1.0.pdf)
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
 
-## Status
+---
+
+## Project Status
 
 NexioCP v1.x is currently in active development.
+
+Community feedback and contributions are welcome.
